@@ -17,7 +17,7 @@ namespace B05Ex_Arrays
             string searchChar = "°";
             string endChar = ">";
             const string path = @"cities.txt";
-
+           // const string absolutePath = @"c:\data\cities.txt";
 
             string[] citiesFromFile = File.ReadAllLines(path);
 
@@ -63,7 +63,7 @@ namespace B05Ex_Arrays
 
             }
 
-
+            //https://github.com/tomasz-trener/21Day2
 
             Console.ReadKey();
         }
