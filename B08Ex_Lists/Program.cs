@@ -38,7 +38,9 @@ namespace B08Ex_Lists
                 string cityString = Console.ReadLine();
                 int cityNumber = Convert.ToInt32(cityString);
                 string city = citiesFromFile[cityNumber - 1];
-                cityList.Add(city);
+                
+                if(!cityList.Contains(city))
+                    cityList.Add(city);
 
                 string address = $"https://www.google.com/search?q=weather+{city}";
 
@@ -60,7 +62,8 @@ namespace B08Ex_Lists
                     string result = data.Substring(currentPosition + 1, index - currentPosition + 1);
                     Console.WriteLine($"Temperature for {city}: {result}");
 
-                    temperatureList.Add(Convert.ToInt32(result.Substring(0, result.Length - 2)));
+                    if (!cityList.Contains(city))
+                        temperatureList.Add(Convert.ToInt32(result.Substring(0, result.Length - 2)));
 
                     double averageTemp = 0;
 
