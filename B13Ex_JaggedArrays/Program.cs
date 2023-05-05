@@ -39,6 +39,8 @@ namespace B13Ex_JaggedArrays
                 Console.WriteLine();
             }
 
+            // homework: how to import data to 2-dimensions array 
+
             Console.ReadKey();
         }
     }
