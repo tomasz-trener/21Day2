@@ -29,7 +29,7 @@ namespace B09Ex_VolleyballPlayers
             {
                 string[] cells = row.Split(';');
                 if (cells[4].ToUpper() == country)
-                    players.Add(cells[2] + " " + cells[3]) ;
+                    players.Add(cells[2] + " " + cells[3]);
             }
 
             const string outputPath = @"c:\data\countries";
