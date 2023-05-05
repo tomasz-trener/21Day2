@@ -1,4 +1,3 @@
-Warsaw
-Paris
-London
-Berlin
+warsaw
+berlin
+paris 
