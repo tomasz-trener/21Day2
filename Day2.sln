@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "B04Arrays", "B04Arrays\B04A
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "B05Ex_Arrays", "B05Ex_Arrays\B05Ex_Arrays.csproj", "{76886A77-1FD4-4161-AB5E-F445EAE99E02}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "B06ArrayAndStringConversions", "B06ArrayAndStringConversions\B06ArrayAndStringConversions.csproj", "{51E95789-62EA-4F6D-BB84-1B2C10C75A18}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{76886A77-1FD4-4161-AB5E-F445EAE99E02}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{76886A77-1FD4-4161-AB5E-F445EAE99E02}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{76886A77-1FD4-4161-AB5E-F445EAE99E02}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51E95789-62EA-4F6D-BB84-1B2C10C75A18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51E95789-62EA-4F6D-BB84-1B2C10C75A18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51E95789-62EA-4F6D-BB84-1B2C10C75A18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51E95789-62EA-4F6D-BB84-1B2C10C75A18}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
