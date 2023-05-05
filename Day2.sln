@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "B07Lists", "B07Lists\B07Lis
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "B08Ex_Lists", "B08Ex_Lists\B08Ex_Lists.csproj", "{EA800840-591C-4B63-8BAA-7662F79AC6A1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "B09Ex_VolleyballPlayers", "B09Ex_VolleyballPlayers\B09Ex_VolleyballPlayers.csproj", "{86680417-F724-40C7-B1D2-3DE3BF3F4EDC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{EA800840-591C-4B63-8BAA-7662F79AC6A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EA800840-591C-4B63-8BAA-7662F79AC6A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EA800840-591C-4B63-8BAA-7662F79AC6A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86680417-F724-40C7-B1D2-3DE3BF3F4EDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86680417-F724-40C7-B1D2-3DE3BF3F4EDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86680417-F724-40C7-B1D2-3DE3BF3F4EDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86680417-F724-40C7-B1D2-3DE3BF3F4EDC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
