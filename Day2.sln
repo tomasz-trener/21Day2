@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C01VariableTypes", "C01Vari
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C02CustomClasses", "C02CustomClasses\C02CustomClasses.csproj", "{010F6F82-6677-44C8-9284-EBAE0A36FF4E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C04EX_Calculator", "C04EX_Calculator\C04EX_Calculator.csproj", "{5F286323-5215-444A-9A8B-665F4F0E18CB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{010F6F82-6677-44C8-9284-EBAE0A36FF4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{010F6F82-6677-44C8-9284-EBAE0A36FF4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{010F6F82-6677-44C8-9284-EBAE0A36FF4E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F286323-5215-444A-9A8B-665F4F0E18CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F286323-5215-444A-9A8B-665F4F0E18CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F286323-5215-444A-9A8B-665F4F0E18CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F286323-5215-444A-9A8B-665F4F0E18CB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -12,7 +12,7 @@ namespace C04EX_Calculator
         {
             Calculator calculator = new Calculator();
 
-            double? result1 = calculator.PerformOperation("4+5");
+            double? result1 = calculator.PerformOperation("44-56");
 
             double? result2 = calculator.PerformOperation(4,5,'+');
 
